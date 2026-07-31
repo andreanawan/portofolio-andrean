@@ -33,12 +33,6 @@ export default function Home() {
       image: "/projects/sekolah.png",
     },
     {
-      title: "CloudWallet",
-      desc: "Aplikasi manajemen keuangan digital dan pencatatan dompet virtual.",
-      github: "https://github.com/USERNAME/REPO_WALLET",
-      image: "/projects/wallet.png",
-    },
-    {
       title: "Todo List App",
       desc: "Aplikasi manajemen tugas harian yang intuitif dan responsif.",
       github: "https://github.com/Alnieto7/PAS_genap_7_31",
