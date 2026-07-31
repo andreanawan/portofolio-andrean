@@ -231,7 +231,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row md:items-center justify-between mb-2">
               <h3 className="text-xl font-bold text-slate-900 dark:text-slate-100">SMP Batik Surakarta</h3>
               <span className="text-xs px-3 py-1 rounded-full bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-400 font-semibold border border-sky-200/50 dark:border-sky-500/20 w-fit mt-1 md:mt-0">
-                2022 – 2024
+                2021 – 2024
               </span>
             </div>
             <p className="text-sky-600 dark:text-sky-400 text-sm font-semibold mb-3">Kelas Unggulan Digital</p>
