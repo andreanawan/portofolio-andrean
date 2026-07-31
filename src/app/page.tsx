@@ -47,7 +47,7 @@ export default function Home() {
     {
       title: "Portofolio Website",
       desc: "Website portofolio pribadi interaktif menggunakan Next.js & Tailwind CSS.",
-      github: "https://github.com/USERNAME/REPO_PORTFOLIO",
+      github: "https://github.com/andreanawan/portofolio-andrean",
       image: "/projects/portfolio.png",
     },
   ];
